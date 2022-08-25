@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "langtrainer"
   s.version     = "0.0.0"
+  s.executables << "langtrainer"
   s.summary     = "Language Trainer"
   s.description = "A language trainer tool for developers interested in developing education-related"
   s.authors     = ["Martin Arce"]

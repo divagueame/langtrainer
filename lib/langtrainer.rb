@@ -1,5 +1,5 @@
-class LangTrainer
-    def hi
-        puts 'Hi from Langtrainer!'
+class Langtrainer
+    def self.hi
+       'Hi from Langtrainer!'
     end
 end

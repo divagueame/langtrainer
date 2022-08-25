@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'langtrainer'
+puts Langtrainer.hi
